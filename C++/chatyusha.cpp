@@ -1,3 +1,8 @@
+// --------------------
+// * LICENSE : MIT
+// * Author : Chatyusha
+// --------------------
+
 #include <iostream>
 #include <vector>
 #include <random>

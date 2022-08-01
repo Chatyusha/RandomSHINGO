@@ -1,3 +1,8 @@
+# --------------------
+# * LICENSE : MIT
+# * Author : Chatyusha
+# --------------------
+
 from math import fabs
 import random
 
