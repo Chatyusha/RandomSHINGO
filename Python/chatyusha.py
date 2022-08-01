@@ -3,7 +3,6 @@
 # * Author : Chatyusha
 # --------------------
 
-from math import fabs
 import random
 
 DDSK = ["ドド","スコ"]
